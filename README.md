@@ -15,3 +15,7 @@
 
 6. **PÁGINA** 
    - https://verificador-de-idade-gamma.vercel.app
+   
+---
+   
+![verificador-de-idade-pq](https://user-images.githubusercontent.com/110750885/228999073-80ab4f59-0028-485d-8051-fbc0873872de.png)
