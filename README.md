@@ -1,11 +1,17 @@
-**NOME** Verificador de Idade
+1.**NOME** 
+   1.Verificador de Idade
 
-**DATA** 12 de janeiro de 2023
+2.**DATA** 
+   1.12 de janeiro de 2023
 
-**FUNCIONALIDADES** este sistema tem como finalidade de calcular idade de pessoas a partir do ano de nascimento, e dinamicamente mostrar a idade e também uma foto ilustrativa.
+3.**FUNCIONALIDADES** 
+   1. Este sistema tem como finalidade de calcular idade de pessoas a partir do ano de nascimento, e dinamicamente mostrar a idade e também uma foto ilustrativa.
 
-**TECNOLOGIAS** HTML, CSS E JAVASCRIPT
+4.**TECNOLOGIAS** 
+   1.HTML, CSS E JAVASCRIPT
 
-**AUTORES** Apenas eu mesma
+5.**AUTORES** 
+   1.Apenas eu mesma
 
-**PÁGINA** https://verificador-de-idade-gamma.vercel.app
+6.**PÁGINA** 
+    1. https://verificador-de-idade-gamma.vercel.app
